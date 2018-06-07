@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.7.1)
+  - IQKeyboardManagerSwift (5.0.8)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - IQKeyboardManagerSwift
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 68d7d521118d49c615a8d2214d87cdf525599d30
+  IQKeyboardManagerSwift: 2e7dc7f98c111458c1ea2b373f893e8cf95e2b97
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 4ca1efedc5c288e65e10980499434efe7cfd5f44
+
+COCOAPODS: 1.4.0

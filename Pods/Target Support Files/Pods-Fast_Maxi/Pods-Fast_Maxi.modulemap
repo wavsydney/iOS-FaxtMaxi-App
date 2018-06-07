@@ -1,0 +1,6 @@
+framework module Pods_Fast_Maxi {
+  umbrella header "Pods-Fast_Maxi-umbrella.h"
+
+  export *
+  module * { export * }
+}
